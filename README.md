@@ -1,8 +1,8 @@
 # Demon-Selfbot
-A discord selfbot using the new API
+MASS DM TOOL/SELFBOT!
 
-demon-selfbot-beta
-beta release version for my discord selfbot
+demon-selfbot
+beta release version for my discord selfbot/MASS-DM
 
 basically has everything you need for a selfbot plus more has a built in antinuke and music player too
 
