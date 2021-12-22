@@ -1,5 +1,5 @@
 # Demon-Selfbot
-MASS DM TOOL/SELFBOT!
+If you need to promote your server/socials, I reccomend using demon. It has a built-in MassDM
 
 demon-selfbot
 beta release version for my discord selfbot/MASS-DM
