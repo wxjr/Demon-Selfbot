@@ -21,4 +21,4 @@ If you need to promote your server/socials, I recommend using demon. It has a bu
 
 # Installation
 
-Run the Installer.bat file to install all the required python modules for the bot to function 
+Run the "setup.bat" file to install all the required python modules for the bot to function properly!
